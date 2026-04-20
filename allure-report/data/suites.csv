@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","25895","Verify bookshelves under price limit","","2026-04-19","passed","2026-04-19","","Urban Ladder Validation","Verify bookshelves under price limit",""
+"","1861","Verify sofa categories","","2026-04-19","passed","2026-04-19","","Urban Ladder Validation","Verify sofa categories",""
+"","22559","Verify gift card invalid email","","2026-04-19","passed","2026-04-19","","Urban Ladder Validation","Verify gift card invalid email",""
